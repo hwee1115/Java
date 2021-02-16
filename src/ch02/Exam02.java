@@ -4,7 +4,7 @@ public class Exam02 {
 
 	public static void main(String[] args) {
 		//자동 타입 변환
-		byte var1 =10;
+		byte var1 =8;
 		int var2 = var1;
 		System.out.println("var2 : "+ var2);
 		//강제 타입 변환
