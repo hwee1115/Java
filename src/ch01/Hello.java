@@ -10,6 +10,7 @@ public class Hello {
 		System.out.println("Hello JAVA4");
 		System.out.println("Hello JAVA5");
 		System.out.println("Hello JAVA5");
+		System.out.println("Hello JAVA7");
 		
 	}
 
