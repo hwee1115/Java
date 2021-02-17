@@ -19,7 +19,7 @@ public class Exam06 {
 			System.out.println(arr[i]);
 		}
 		
-		System.out.println(arr[0].equals("자바"));
+		System.out.println(arr[0].equals("자바"));//==도 true (리터럴)
 		
 	}
 }
