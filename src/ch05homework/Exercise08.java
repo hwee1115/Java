@@ -20,7 +20,7 @@ public class Exercise08 {
 			}
 		}
 		
-		avg = sum/count;
+		avg = (double)sum/count;
 		
 		System.out.println("sum " + sum);
 		System.out.println("avg "+ avg);
