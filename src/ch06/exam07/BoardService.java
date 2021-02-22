@@ -1,4 +1,4 @@
-package exam07;
+package ch06.exam07;
 
 public class BoardService {
 	
