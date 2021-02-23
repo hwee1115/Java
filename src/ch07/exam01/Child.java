@@ -5,7 +5,7 @@ public class Child extends Parent {
 	public int field2;
 	//Constructor
 	public Child() {
-		super();	//磊悼积己 何葛 积己磊 龋免内靛
+		super();	//磊悼积己, 何葛 积己磊 龋免内靛
 		System.out.println("child 按眉 积己");
 	}
 	//Method

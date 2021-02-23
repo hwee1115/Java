@@ -3,7 +3,7 @@ package ch07.exam10;
 public class Child extends Parent {
 	//field
 	//Constructor
-	public int field2=0;
+	public int field2;
 	//Method
 	@Override
 	public void method2() {

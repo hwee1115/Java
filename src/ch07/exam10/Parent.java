@@ -2,7 +2,7 @@ package ch07.exam10;
 
 public class Parent {
 	//field
-	public int field1=0;
+	public int field1;
 	//Constructor
 
 	//Method
